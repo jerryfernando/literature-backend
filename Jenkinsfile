@@ -2,11 +2,11 @@ pipeline {
     agent any
     environment{
         credential = 'github-appserver'
-        server = 'team3@103.127.96.218'
-        directory = '/home/team3/literature-backend'
+        server = 'jeri77@103.127.97.172'
+        directory = '/home/jeri77/literature-backend'
         branch = 'main'
         service = 'backend'
-        image = 'rakhafe/backend-team3'
+        image = 'jerifernando/backend'
     }
     stages {
         stage('Pull code dari repository'){

@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "team3",
-    "password": "terserah123!",
-    "database": "literature",
-    "host": "103.127.96.218",
+    "username": "jeri77",
+    "password": "Jeri777!",
+    "database": "wayshub",
+    "host": "103.127.97.172",
     "dialect": "mysql"
   },
   "test": {
